@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin AI Analyst",
+  "description": "An AI-powered application that analyzes real-time Bitcoin (BTC) market data and generates insightful reports in Korean. It synthesizes price information, news, expert opinions, social signals, and macroeconomic data to provide a comprehensive market overview.",
+  "requestFramePermissions": []
+}
